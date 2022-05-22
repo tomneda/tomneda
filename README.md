@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @tomneda
 - 👀 I’m interested in C++, QT, Python, Signal Processing, GnuRadio
-- 📫 How to reach me (thinking about this later :) )
+- 📫 How to reach me: best you look at my commit email entry :-)
