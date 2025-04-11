@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Thomas Neder (Github: tomneda)
-- 👀 I’m interested in C++, QT, Python, Signal Processing with SDR, GnuRadio and HAM
+- 👀 I’m interested in C++, Qt, Python, Signal Processing with SDR, GnuRadio and HAM
